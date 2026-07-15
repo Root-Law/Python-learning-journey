@@ -2,5 +2,6 @@
 
 Welcome!
 
-This repository documents my journey learning Python from the ground up.
+This repository documents my journey learning Python and C++ from the ground up. 
+
 
