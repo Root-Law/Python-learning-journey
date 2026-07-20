@@ -1,4 +1,4 @@
-### Hi, I'm Leon 👋
+
 
 Self-taught, and still learning python and C++ with a background in systems administration and 
 diesel mechanics. Currently working toward systems architecture. Coarse advice?
@@ -7,8 +7,7 @@ diesel mechanics. Currently working toward systems architecture. Coarse advice?
 - **Whit** — a developer companion tool built around a simple idea: 
   observe before acting, and only earn trust through confirmed behavior. 
   Early-stage prototype.
-- **Anchor City** — a text-based civilization simulation, moving toward a 
-  working prototype as soon as I have a PC.
+- **Anchor City** — a text-based civilization simulation.
 
 **Background:**
 Started in systems administration, spent years in diesel mechanics 
