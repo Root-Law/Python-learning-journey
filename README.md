@@ -16,7 +16,7 @@
 
 **Currently working on Different concepts:**
 
-- **Whit ** — a developer companion tool built around a simple idea: 
+- **Whit** - a developer companion tool built around a simple idea: 
   Observe before acting, and only earn trust through confirmed behavior. 
   **Early-stage prototype**.
 - **Kernel** - Purely experimental for learning concepts and systems.
